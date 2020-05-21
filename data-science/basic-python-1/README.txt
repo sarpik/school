@@ -1,13 +1,3 @@
-Reikės python 2 versijos.
+Reikės jupyter notebook'o su python'o 2.x versija:
 
-Tada per terminalą:
-
-```
-pip install -r requirements.txt
-```
-
-ir paleisti failą naudojant python:
-
-```
-python failo_pavadinimas.py
-```
+https://www.anaconda.com/products/individual
