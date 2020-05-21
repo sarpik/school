@@ -1,4 +1,5 @@
 import pandas # .csv failo skaitymas
+from matplotlib import pyplot as plt # grafiko atvaizdavimas
 
 failas = pandas.read_csv("All names.csv", ";")
 
